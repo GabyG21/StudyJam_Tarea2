@@ -1,6 +1,6 @@
 # Calculadora
 
-## StudyJam Tarea 1
+## StudyJam Tarea 2
 
 Ejemplo de funcionalidad de una calculadora con las operaciones basicas
 
